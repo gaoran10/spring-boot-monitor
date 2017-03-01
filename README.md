@@ -1,5 +1,4 @@
 ## Welcome to GitHub Pages
-## nice
 
 You can use the [editor on GitHub](https://github.com/codelipenghui/spring-boot-monitor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
