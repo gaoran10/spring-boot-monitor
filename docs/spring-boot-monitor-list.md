@@ -3,7 +3,7 @@
 ## /metrics  度量指标类
 返回当前应用的各类重要度量指标，比如：内存信息、线程信息、垃圾回收信息、http访问指标等。
 
-<| Header One     | Header Two     |
+| Header One     | Header Two     |
 | :------------- | :------------- |
 | Item One       | Item Two       |
 
